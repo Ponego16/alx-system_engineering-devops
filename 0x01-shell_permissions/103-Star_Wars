@@ -1,2 +1,2 @@
 #!/bin/bash
-clear
+telnet towel.blinkenlights.n1
